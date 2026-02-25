@@ -1,0 +1,1031 @@
+================================================================================
+  COMPLETE REPOSITORY EXTRACTION — ANIS-PORTFOLIO
+  GitHub Repository: AnisBouchema/ANIS-PORTFOLIO
+  Extracted: 2026-02-25
+  Branch at time of extraction: claude/reformat-resume-experience-QckMb
+================================================================================
+
+
+================================================================================
+  SECTION 1 — REPOSITORY OVERVIEW & METADATA
+================================================================================
+
+Repository Name       : ANIS-PORTFOLIO
+Owner                 : AnisBouchema
+Remote URL (origin)   : http://127.0.0.1/git/AnisBouchema/ANIS-PORTFOLIO
+Base Template         : vCard - Personal Portfolio by codewithsadee (MIT License)
+Template Source       : https://github.com/codewithsadee/vcard-personal-portfolio
+
+Active Branches:
+  * claude/reformat-resume-experience-QckMb  (current working branch)
+    master                                   (main branch)
+    remotes/origin/AnisBouchemaPortfolio     (remote tracking branch)
+    remotes/origin/claude/reformat-resume-experience-QckMb
+
+File Line Counts:
+  index.html                   875 lines
+  assets/css/style.css        1890 lines
+  assets/js/script.js          122 lines
+  TOTAL (source files)        2887 lines
+
+
+--------------------------------------------------------------------------------
+  GIT COMMIT HISTORY (all commits, chronological oldest → newest)
+--------------------------------------------------------------------------------
+
+1. COMMIT: e583e9b155c3fec86cd5aa04acbb2a23399b779b
+   DATE:    2022-03-20 00:33:32 +0600
+   AUTHOR:  Sadee <mohammadsadee24@gmail.com>
+   MESSAGE: initial
+
+2. COMMIT: 3d84876c22a6df0c2182d633c2f2314eb97c75dd
+   DATE:    2022-03-20 02:14:35 +0600
+   AUTHOR:  Sadee <mohammadsadee24@gmail.com>
+   MESSAGE: add README
+
+3. COMMIT: bb462935dabff69b31446104949624d3ddb9ab26
+   DATE:    2022-10-30 05:49:29 +0600
+   AUTHOR:  Sadee <mohammadsadee24@gmail.com>
+   MESSAGE: fix: compressed demo images
+
+4. COMMIT: 323bc693e00a930d35375ee465e805ecc8b95cc7
+   DATE:    2023-02-25 23:54:20 +0600
+   AUTHOR:  Sadee <72186095+codewithsadee@users.noreply.github.com>
+   MESSAGE: Create .github/FUNDING.yml
+
+5. COMMIT: 42b9d7383152b5cdc3c0a6d5e75727ce27523c20
+   DATE:    2023-04-06 17:19:04 +0600
+   AUTHOR:  Sadee <72186095+codewithsadee@users.noreply.github.com>
+   MESSAGE: Create LICENSE
+
+6. COMMIT: c7d6cd8344bea8ebff472579b0ade24fa9107c76
+   DATE:    2023-04-06 17:19:49 +0600
+   AUTHOR:  Sadee <72186095+codewithsadee@users.noreply.github.com>
+   MESSAGE: Update README.md
+
+7. COMMIT: c0d7270ebdbd35509e7d65fa5846449f94e2c81d
+   DATE:    2023-08-31 16:58:39 +0600
+   AUTHOR:  Sadee <mohammadsadee24@gmail.com>
+   MESSAGE: Update README.md
+
+8. COMMIT: 927f09a6ef894a24cc8aef7a2e51f8e93ac306f7
+   DATE:    2025-06-12 22:43:59 +0600
+   AUTHOR:  Sadee <mohammadsadee24@gmail.com>
+   MESSAGE: Update README.md
+
+9. COMMIT: e56b430cbfdfb3b65849ce8f61c9e88ccdd80e78
+   DATE:    2026-02-19 22:34:52 +0000
+   AUTHOR:  Claude <noreply@anthropic.com>
+   MESSAGE: Customize vCard portfolio with Anis Bouchema's personal information
+
+10. COMMIT: 40cbfc7aaa912aaa7e2311f4f65845e420219851
+    DATE:    2026-02-19 20:27:46 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Update portfolio email and mailto link
+
+11. COMMIT: 572d051a58d6bec9de12ca6f338a542d0bd9ee99
+    DATE:    2026-02-19 20:32:09 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Merge pull request #1 from AnisBouchema/codex/replace-email-address-in-index.html
+
+12. COMMIT: e986415648adfaf8b6210e60fdb4ecbdee69a8d4
+    DATE:    2026-02-20 18:01:22 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Update resume experience section with detailed role breakdown
+
+13. COMMIT: 157ad89633a580cbf9681e3c6c2af879ca603b37
+    DATE:    2026-02-20 18:01:54 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Merge pull request #2 from AnisBouchema/codex/update-experience-section-in-index.html
+
+14. COMMIT: f7fcc5ffd6dde2c23822fa2624d3377b7bdd1147
+    DATE:    2026-02-20 21:40:55 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Refine La Diperie experience role structure
+
+15. COMMIT: 4ea43c49d650d72214f5392c23d21b999138dd5f
+    DATE:    2026-02-20 21:42:15 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Merge branch 'AnisBouchemaPortfolio' into codex/update-experience-section-in-index.html-c4a4c7
+
+16. COMMIT: ff4dbdcee34ec84778ecc7abb82a69fbf5a33252
+    DATE:    2026-02-20 21:44:11 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Merge pull request #3 from AnisBouchema/codex/update-experience-section-in-index.html-c4a4c7
+
+17. COMMIT: bb14e0f63a438eba192964a3a52715467ff3394e
+    DATE:    2026-02-21 18:37:04 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Remove La Diperie Ice Cream Server experience entry
+
+18. COMMIT: f11d32eb6b9f2f463a325cafedf1451619798cd7
+    DATE:    2026-02-21 18:37:29 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Merge pull request #4 from AnisBouchema/codex/refactor-experience-section-for-oakville-roles
+
+19. COMMIT: 34eca7c038ed3d4a3ac7ca67702f783d127c11ce
+    DATE:    2026-02-22 14:27:47 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Adding project financial reporting
+
+20. COMMIT: 3c65834aab1b83d567d646fa4c9a7830d5976fb1
+    DATE:    2026-02-22 14:29:58 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Create projects file in assets
+
+21. COMMIT: 265fac1d8f315d2be5c39e3cf66eff41cc814868
+    DATE:    2026-02-22 14:35:18 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Delete assets/projects
+
+22. COMMIT: 5027dbdd73dc74bb06727d420db966a78cd9ed0f
+    DATE:    2026-02-22 14:37:01 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Create projects
+
+23. COMMIT: df2f629da164d93407918604cea56841d46a4340
+    DATE:    2026-02-22 14:38:38 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Delete assets/projects
+
+24. COMMIT: a2bcfa41c1bd0c75ac0526189f6a7e25283032cf
+    DATE:    2026-02-22 15:17:26 -0500
+    AUTHOR:  AnisBouchema <anisbouchema2004@gmail.com>
+    MESSAGE: Updating Files Directory Project
+
+25. COMMIT: 20457c1368ef558d460f7cd414de2c4bc01a3455
+    DATE:    2026-02-22 15:37:43 -0500
+    AUTHOR:  AnisBouchema <anisbouchema2004@gmail.com>
+    MESSAGE: Create myavatar.png
+
+26. COMMIT: 679586f2862fe6667a153fba85753bcaeda26607
+    DATE:    2026-02-22 16:04:01 -0500
+    AUTHOR:  AnisBouchema <anisbouchema2004@gmail.com>
+    MESSAGE: Create LaDiperie_Inventory_Optimizer_Example.xlsx
+
+27. COMMIT: 6e75c53501e0d5effd7613f0a90083903cda01ac
+    DATE:    2026-02-22 16:14:01 -0500
+    AUTHOR:  AnisBouchema <anisbouchema2004@gmail.com>
+    MESSAGE: Update myavatar.png
+
+28. COMMIT: fa0b1e920a070ba9ec25fb482339f8450fe5ff30
+    DATE:    2026-02-22 16:20:33 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Update profile avatar image source path
+
+29. COMMIT: 2c124d4425cfed4000c06e6bfbed9a4c093571bd
+    DATE:    2026-02-22 16:21:32 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Updating image pfp avatar
+
+30. COMMIT: 2646dc26f54715b7cd5d1728b3d34403221f5c95
+    DATE:    2026-02-23 09:52:17 +0000
+    AUTHOR:  Claude <noreply@anthropic.com>
+    MESSAGE: Rewrite resume section copy for hiring managers and networkers
+
+31. COMMIT: 79b222459a376c046953e711c6d9ca1c28e816c6
+    DATE:    2026-02-23 04:57:08 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Merge pull request #6 from AnisBouchema/claude/improve-resume-copy-KmDyo
+
+32. COMMIT: da3e08cabd6e1001878c8b0a8c61a53e3d3b9224
+    DATE:    2026-02-23 20:12:27 -0500
+    AUTHOR:  AnisBouchema <anisbouchema2004@gmail.com>
+    MESSAGE: UPDATING PROJECTS
+
+33. COMMIT: 1f43a7815b48684349605c8fd081b26142f95496
+    DATE:    2026-02-24 02:56:25 +0000
+    AUTHOR:  Claude <noreply@anthropic.com>
+    MESSAGE: Update portfolio content across all 7 sections per profile ground truth
+
+34. COMMIT: 587b0865f3da7d6a886634ca1f9f9f428b0e3cd8
+    DATE:    2026-02-23 21:59:32 -0500
+    AUTHOR:  AnisBouchema <132133603+AnisBouchema@users.noreply.github.com>
+    MESSAGE: Merge pull request #7 from AnisBouchema/claude/update-portfolio-index-3N4CW
+
+35. COMMIT: e3132e68f01c3c5de4c8ced5817e03e1509d8f8f
+    DATE:    2026-02-25 09:53:53 +0000
+    AUTHOR:  Claude <noreply@anthropic.com>
+    MESSAGE: Fix visual discrepancy in Experience section formatting
+
+36. COMMIT: cf63765efd934f113d556fac054cfa1875a3305f
+    DATE:    2026-02-25 10:01:38 +0000
+    AUTHOR:  Claude <noreply@anthropic.com>
+    MESSAGE: Add lighter background header block to each experience item
+
+
+================================================================================
+  SECTION 2 — PERSONAL INFORMATION (from index.html sidebar)
+================================================================================
+
+Full Name             : Anis Bouchema
+Professional Title    : Business Technology Management Student
+Email Address         : anisbouchema2004@gmail.com
+  (mailto link)       : mailto:anisbouchema2004@gmail.com
+Phone Number          : 905-598-1860
+  (tel link)          : tel:+19055981860
+Location              : Toronto, ON, Canada
+LinkedIn URL          : https://linkedin.com/in/anis-bouchema
+  (opens new tab, rel="noopener noreferrer")
+Avatar Image File     : assets/images/myavatar.png  (width=80px displayed in sidebar)
+Favicon               : assets/images/logo.ico
+
+
+================================================================================
+  SECTION 3 — PAGE NAVIGATION STRUCTURE
+================================================================================
+
+The site is a single-page application (SPA) with four tab-based sections,
+controlled entirely by JavaScript (no page reloads). Navigation tabs:
+
+  1. About     (default active on load)
+  2. Resume
+  3. Portfolio
+  4. Contact
+
+Navigation bar is fixed at the bottom of the viewport on mobile/tablet,
+repositioned to the top-right corner of the content area on screens >= 1024px.
+
+
+================================================================================
+  SECTION 4 — ABOUT PAGE (full text content)
+================================================================================
+
+--- PAGE TITLE ---
+"About me"
+
+--- BIO (paragraph 1) ---
+I'm a Business Technology Management student at Toronto Metropolitan University
+— and a full-time business operator running two La Diperie locations in Oakville
+and Toronto, generating over $550K in annual revenue. My work lives at the
+intersection of operations, analytics, and strategy: I build KPI dashboards from
+POS exports, run inventory planning models, manage 10+ staff, and launched a
+second location completely from scratch.
+
+--- BIO (paragraph 2) ---
+The combination of real P&L responsibility and an analytical BTM curriculum is
+what makes my profile different. I'm bilingual in English and French, actively
+building in TMU's entrepreneurship community, and targeting internships in
+finance, operations, capital markets, and consulting.
+
+--- SECTION: "What I'm Doing" (4 service cards) ---
+
+  CARD 1 — Business Analytics
+  Icon image: assets/images/icon-dev.svg
+  Description:
+    Building KPI dashboards from raw POS exports, Excel financial models,
+    inventory planning (EOQ, reorder points, safety stock), and data-driven
+    reporting across two active retail locations.
+
+  CARD 2 — Operations Management
+  Icon image: assets/images/icon-app.svg
+  Description:
+    Running two retail locations simultaneously — staffing, scheduling, SOPs,
+    supplier negotiations, and the full end-to-end launch of a new location from
+    site selection to opening day.
+
+  CARD 3 — Commercial Finance
+  Icon image: assets/images/icon-design.svg
+  Description:
+    Margin analysis, budget tracking, variance reporting, and business case
+    development. Translating operational data into financial insights and
+    stakeholder-ready recommendations.
+
+  CARD 4 — Entrepreneurship
+  Icon image: assets/images/icon-photo.svg
+  Description:
+    Launched the High Park La Diperie location end-to-end. Founded the
+    Sustainable Business Association at TMU — built from zero to a registered,
+    active organization with real campus presence.
+
+--- SECTION: "Leadership" (2 service cards) ---
+
+  CARD 1 — Founder & President — Sustainable Business Association (SBA), TMU
+  Icon image: assets/images/icon-design.svg
+  Date range: Oct 2024 – Present
+  Description:
+    Launched from zero: built the strategy, recruited a full executive team, and
+    set up operating infrastructure from scratch. Grew a sponsor and partner
+    pipeline of 50+ contacts and delivered events with 80+ attendees.
+
+  CARD 2 — General Associate — Toronto Met Entrepreneurship Association (TEA)
+  Icon image: assets/images/icon-app.svg
+  Date range: Oct 2024 – Present
+  Description:
+    Supports HR coordination, marketing execution, corporate relations outreach,
+    and structured project documentation across team initiatives.
+
+
+================================================================================
+  SECTION 5 — RESUME PAGE (full text content)
+================================================================================
+
+--- PAGE TITLE ---
+"Resume"
+
+--- SUBSECTION: Education ---
+
+  ENTRY 1:
+  Title    : Bachelor of Commerce, Business Technology Management —
+             Toronto Metropolitan University (Ted Rogers School of Management)
+  Duration : 2024 — 2028 (Expected)
+  Details  :
+    Where business strategy meets data intelligence. The BTM program bridges
+    analytical thinking with commercial decision-making — spanning data
+    analytics, financial modelling, systems design, marketing, and
+    organizational behaviour. Recognized in the top 10% of students for
+    engagement through the 'Fit for Business' initiative.
+
+  ENTRY 2:
+  Title    : High School Diploma — Saint Joan of Arc Catholic Secondary School
+  Duration : 2018 — 2022
+  Details  : (none — title and dates only)
+
+--- SUBSECTION: Experience (6 roles, listed in order as they appear on page) ---
+
+  ROLE 1:
+  Title    : La Diperie — Business Operator
+  Duration : Sep 2021 — Present
+  Location : Oakville, ON
+  Summary  :
+    Running two retail locations while studying full-time isn't a side project
+    — it's an active business. This role owns every layer of the Oakville
+    operation: revenue performance, team execution, inventory systems, and
+    supplier relationships. No safety net, no margin for error.
+  Bullet Points:
+    - Designed weekly and monthly KPI dashboards from raw POS exports —
+      tracking sales trends, product mix shifts, and peak-period patterns to
+      drive decisions across both locations
+    - Built advanced Excel tools (pivot tables, dynamic charts, nested lookups)
+      that converted raw transaction data into clear staffing, inventory, and
+      pricing actions
+    - Deployed reorder point logic, safety stock buffers, and EOQ models to
+      eliminate costly stockouts and reduce inventory waste
+    - Scaled and managed a team of 10+ through structured onboarding programs,
+      SOP documentation, and consistent hands-on coaching
+    - Launched new product lines and re-engineered the menu mix to maximize
+      revenue per transaction and improve average order value
+    - Renegotiated supplier contracts to protect margins without sacrificing
+      quality or reliability
+
+  ROLE 2:
+  Title    : La Diperie — General Manager
+  Duration : Sep 2019 — Sep 2021
+  Location : Oakville, ON
+  Summary  :
+    This is where operational discipline was built from the ground up. Managing
+    the Oakville store day-to-day meant owning the full rhythm of every shift
+    — coordinating people, product, and performance standards under the
+    pressure of a high-traffic retail environment.
+  Bullet Points:
+    - Directed daily store operations including shift planning, staff
+      coordination, and task prioritization across peak and off-peak periods
+    - Used real-time POS reporting to dynamically adjust prep volumes, staffing
+      levels, and product availability throughout each day
+    - Managed inventory flow and cut stockout frequency through proactive,
+      data-informed ordering cycles
+    - Resolved customer escalations decisively to protect experience quality
+      and uphold brand standards under pressure
+
+  ROLE 3:
+  Title    : La Diperie — Business Operator (High Park Launch)
+  Duration : Jun 2022 — Present
+  Location : Toronto, ON
+  Summary  :
+    Launching a location from an empty storefront is a different challenge
+    entirely — part entrepreneur, part project manager, part operator. The
+    High Park launch meant taking a concept from zero to fully running, then
+    keeping it profitable. This is what end-to-end ownership actually looks
+    like.
+  Bullet Points:
+    - Led site selection research and coordinated full pre-opening readiness
+      across real estate, vendor logistics, and operational infrastructure
+    - Negotiated lease terms directly with the landlord and secured aligned
+      vendor partnerships ahead of opening day
+    - Built the complete staffing model from scratch — defining roles, running
+      hiring, designing onboarding, and building training systems
+    - Designed all operational controls, cash handling workflows, and daily
+      reconciliation processes from day one
+    - Conducted local market analysis to position product mix, pricing, and
+      promotions for the High Park community's specific demand patterns
+    - Built KPI tracking infrastructure to monitor performance across the new
+      location and surface issues before they compounded
+
+  ROLE 4:
+  Title    : Sustainable Business Association TMU — Founder | President
+  Duration : Oct 2024 — Present
+  Location : Toronto, ON
+  Summary  :
+    Building something that didn't exist before is the clearest test of
+    leadership. The SBA started as an idea — a gap in TMU's ecosystem for
+    students who care about the intersection of business and sustainability
+    — and became a registered, operating organization with a growing team and
+    real campus presence.
+  Bullet Points:
+    - Founded the organization from concept: handled registration, governance,
+      infrastructure setup, and early team building
+    - Recruited and structured a full executive team with defined roles,
+      accountability systems, and a weekly execution cadence
+    - Built a sponsorship and partner pipeline from scratch — prospect
+      research, segmentation, outreach strategy, and follow-up tracking
+      across 50+ organizations
+    - Managed end-to-end event planning and delivery, tracking growth against
+      KPIs including membership, attendance, and partner pipeline — events
+      reached 80+ attendees
+
+  ROLE 5:
+  Title    : Conseil scolaire Viamonde — French Tutor & Program Coordinator
+  Duration : Dec 2023 — Present
+  Location : Mississauga, ON
+  Summary  :
+    Teaching a language well means more than knowing the rules — it means
+    reading the room, adapting on the fly, and making content click for six
+    different students with six different gaps. A daily exercise in
+    communication, patience, and meeting people exactly where they are.
+  Bullet Points:
+    - Delivered personalized French tutoring to Grades 1–6 students across a
+      wide range of fluency levels and learning needs
+    - Coordinated tutor scheduling and built standardized lesson planning
+      templates that improved consistency across 14 classes
+    - Tracked individual student progress and maintained structured
+      documentation to support academic reporting and family communication
+
+  ROLE 6:
+  Title    : Ontario Soccer — Sports Referee
+  Duration : Jun 2018 — Sep 2019
+  Location : Mississauga, ON
+  Summary  :
+    Officiating competitive youth soccer means making fast, confident calls in
+    front of players, coaches, and parents — with fairness and safety always
+    in focus. An early lesson in staying composed under pressure and
+    commanding a situation without raising your voice.
+  Bullet Points:
+    - Officiated competitive youth matches, enforcing rules of play, safety
+      standards, and fair outcomes under time pressure
+    - Managed game flow, de-escalated sideline tension, and resolved on-field
+      disputes calmly and decisively
+    - Completed post-match documentation and reporting in line with Ontario
+      Soccer requirements
+
+--- SUBSECTION: Skills ---
+
+  TECHNICAL SKILLS:
+    Excel (Advanced), Power BI, Python, POS Analytics, Google Workspace,
+    SharePoint, PowerPoint
+
+  ANALYTICAL SKILLS:
+    Financial Analysis, KPI Reporting, Inventory Planning, Variance Analysis,
+    Forecasting, Process Improvement, Data Storytelling
+
+  PROFESSIONAL SKILLS:
+    Stakeholder Management, Cross-functional Collaboration, Presentation
+    Skills, Project Coordination, People Management
+
+  LANGUAGES:
+    English (Fluent), French (Fluent)
+
+
+================================================================================
+  SECTION 6 — PORTFOLIO PAGE (full content)
+================================================================================
+
+Filter Categories available:
+  All | Analytics | Operations | Business
+
+--- PROJECT LISTINGS (6 total) ---
+
+  PROJECT 1:
+  Title    : Inventory Optimization Model
+  Category : Analytics
+  Image    : assets/images/project-1.jpg
+  Link     : # (placeholder, no live URL)
+
+  PROJECT 2:
+  Title    : Commercial Trend Modelling
+  Category : Analytics
+  Image    : assets/images/project-2.png
+  Link     : # (placeholder, no live URL)
+
+  PROJECT 3:
+  Title    : Marketing Performance Dashboard
+  Category : Analytics
+  Image    : assets/images/project-3.jpg
+  Link     : # (placeholder, no live URL)
+
+  PROJECT 4:
+  Title    : Business Case & Presentation Toolkit
+  Category : Business
+  Image    : assets/images/project-4.png
+  Link     : # (placeholder, no live URL)
+
+  PROJECT 5:
+  Title    : Resource Scheduling Tool
+  Category : Operations
+  Image    : assets/images/project-5.png
+  Link     : # (placeholder, no live URL)
+
+  PROJECT 6:
+  Title    : High Park Location Launch
+  Category : Business
+  Image    : assets/images/project-6.png
+  Link     : # (placeholder, no live URL)
+
+
+================================================================================
+  SECTION 7 — CONTACT PAGE (full content)
+================================================================================
+
+--- EMBEDDED MAP ---
+  Google Maps embed: Toronto, ON, Canada
+  iframe src:
+    https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184552.62373608!
+    2d-79.54286485!3d43.7182414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!
+    3m3!1m2!1s0x89d4cb90d7c63ba5%3A0x323555502ab4c477!2sToronto%2C%20ON%
+    2C%20Canada!5e0!3m2!1sen!2sca!4v1647608789441!5m2!1sen!2sca
+  Display size: width=400, height=300
+  Filter applied in CSS: grayscale(1) invert(1)
+
+--- CONTACT FORM ---
+  Form action  : # (no backend configured)
+  Fields:
+    1. Full name      (type="text",  required)
+    2. Email address  (type="email", required)
+    3. Your Message   (textarea,     required)
+  Submit button:
+    Label: "Send Message"
+    Icon: paper-plane (ionicons)
+    State: disabled by default; enabled only when all fields are valid
+    Validation: uses native HTML5 form.checkValidity()
+
+
+================================================================================
+  SECTION 8 — JAVASCRIPT BEHAVIOUR (assets/js/script.js)
+================================================================================
+
+The script is 122 lines, uses 'use strict' mode throughout.
+All DOM manipulation is vanilla JavaScript — no frameworks or libraries.
+
+--- FEATURE 1: Sidebar Toggle (mobile) ---
+  Selector: [data-sidebar]
+  Button:   [data-sidebar-btn]
+  Behaviour: Clicking the "Show Contacts" button on mobile toggles the
+             "active" class on the sidebar element, expanding/collapsing
+             the contacts section. The sidebar has a CSS max-height
+             transition (0.5s ease-in-out) to animate the expansion.
+
+--- FEATURE 2: Portfolio Filter (dropdown, mobile) ---
+  Selector for dropdown:  [data-select]
+  Selector for items:     [data-select-item]
+  Selector for value:     [data-selecct-value]  (note: typo in attribute name,
+                          spelled "selecct" with double 'c' — must match HTML)
+  Behaviour:
+    Clicking the dropdown button toggles the dropdown open/closed.
+    Clicking any item inside the dropdown:
+      1. Updates the displayed value text
+      2. Closes the dropdown
+      3. Calls filterFunc() with the selected category
+
+--- FEATURE 3: Portfolio Filter (tab buttons, desktop >= 768px) ---
+  Selector: [data-filter-btn]
+  Behaviour:
+    Clicking a filter tab:
+      1. Gets the button's inner text (lowercased)
+      2. Updates the select value display text
+      3. Calls filterFunc()
+      4. Removes "active" class from the previously active button
+      5. Adds "active" class to the clicked button
+  Note: Both the dropdown (mobile) and tab buttons (desktop) call the
+        same filterFunc(), keeping behaviour consistent.
+
+--- filterFunc(selectedValue) ---
+  Iterates over all [data-filter-item] elements.
+  If selectedValue === "all"  → adds class "active" to every item
+  If selectedValue matches element's data-category attribute → adds "active"
+  Otherwise → removes "active"
+  Items without class "active" are hidden via CSS (display: none).
+
+--- FEATURE 4: Contact Form Validation ---
+  Selectors:
+    Form:        [data-form]
+    Inputs:      [data-form-input]  (all input and textarea fields)
+    Submit btn:  [data-form-btn]
+  Behaviour:
+    Every input event on any form field checks form.checkValidity().
+    If valid  → removes "disabled" attribute from submit button
+    If invalid → sets "disabled" attribute on submit button
+  The submit button starts as disabled="disabled" in HTML.
+
+--- FEATURE 5: Tab Navigation (SPA routing) ---
+  Selectors:
+    Nav links: [data-nav-link]
+    Pages:     [data-page]
+  Behaviour:
+    On clicking any nav link, iterates over all pages.
+    Compares link's innerHTML (lowercased) to page's data-page attribute.
+    Matching page/link pair → adds "active" class → scrolls to top
+    Non-matching pages/links → removes "active" class
+  The About article has class="about active" by default in HTML (shown on load).
+
+
+================================================================================
+  SECTION 9 — CSS DESIGN SYSTEM (assets/css/style.css)
+================================================================================
+
+File length: 1890 lines
+Framework: None — pure custom CSS
+Base font: Poppins (Google Fonts, weights 300/400/500/600)
+External font URL: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap
+
+--- COLOR PALETTE (CSS custom properties) ---
+
+  GRADIENTS:
+  --bg-gradient-onyx:       linear-gradient(to bottom right,
+                              hsl(240, 1%, 25%) 3%, hsl(0, 0%, 19%) 97%)
+  --bg-gradient-jet:        linear-gradient(to bottom right,
+                              hsla(240,1%,18%,0.251) 0%, hsla(240,2%,11%,0) 100%),
+                              hsl(240, 2%, 13%)
+  --bg-gradient-yellow-1:   linear-gradient(to bottom right,
+                              hsl(45,100%,71%) 0%, hsla(36,100%,69%,0) 50%)
+  --bg-gradient-yellow-2:   linear-gradient(135deg,
+                              hsla(45,100%,71%,0.251) 0%, hsla(35,100%,68%,0) 59.86%),
+                              hsl(240, 2%, 13%)
+  --border-gradient-onyx:   linear-gradient(to bottom right,
+                              hsl(0,0%,25%) 0%, hsla(0,0%,25%,0) 50%)
+  --text-gradient-yellow:   linear-gradient(to right,
+                              hsl(45,100%,72%), hsl(35,100%,68%))
+
+  SOLID COLORS:
+  --jet:                    hsl(0, 0%, 22%)          — border/divider gray
+  --onyx:                   hsl(240, 1%, 17%)         — medium dark background
+  --eerie-black-1:          hsl(240, 2%, 13%)         — dark background
+  --eerie-black-2:          hsl(240, 2%, 12%)         — darker background (article/sidebar bg)
+  --smoky-black:            hsl(0, 0%, 7%)            — page body background (near-black)
+  --white-1:                hsl(0, 0%, 100%)          — pure white
+  --white-2:                hsl(0, 0%, 98%)           — off-white (headings)
+  --orange-yellow-crayola:  hsl(45, 100%, 72%)        — primary accent (active states, links)
+  --vegas-gold:             hsl(45, 54%, 58%)         — timeline date color
+  --light-gray:             hsl(0, 0%, 84%)           — body text
+  --light-gray-70:          hsla(0, 0%, 84%, 0.7)     — muted text (contact labels, categories)
+  --bittersweet-shimmer:    hsl(0, 43%, 51%)          — error/invalid input border
+
+--- TYPOGRAPHY SCALE ---
+  --fs-1: 24px   (h2 article titles — bumped to 32px at >= 580px)
+  --fs-2: 18px   (h3 section titles — bumped to 24px at >= 580px)
+  --fs-3: 17px   (sidebar name — bumped to 26px at >= 580px)
+  --fs-4: 16px   (h4 card/timeline titles — bumped to 18px at >= 580px)
+  --fs-5: 15px   (project titles, filter buttons)
+  --fs-6: 14px   (body text, timeline text — bumped to 15px at >= 580px)
+  --fs-7: 13px   (h5, small labels — bumped to 15px at >= 580px)
+  --fs-8: 11px   (contact titles, navbar — bumped to 12px at >= 580px)
+
+--- FONT WEIGHTS ---
+  --fw-300: 300  (light — body text, descriptions)
+  --fw-400: 400  (regular)
+  --fw-500: 500  (medium — navbar active, h5, info name)
+  --fw-600: 600  (semi-bold — article title on >= 580px)
+
+--- SHADOWS ---
+  --shadow-1: -4px 8px 24px hsla(0,0%,0%,0.25)   (sidebar/article — reduced to 0.125 at >= 1024px)
+  --shadow-2: 0 16px 30px hsla(0,0%,0%,0.25)      (cards, navbar — reduced to 0.125 at >= 1024px)
+  --shadow-3: 0 16px 40px hsla(0,0%,0%,0.25)      (form button — reduced to 0.125 at >= 1024px)
+  --shadow-4: 0 25px 50px hsla(0,0%,0%,0.15)      (blog post cards)
+  --shadow-5: 0 24px 80px hsla(0,0%,0%,0.25)      (modal, desktop content area)
+
+--- TRANSITIONS ---
+  --transition-1: 0.25s ease       (fast — hover states, filter select)
+  --transition-2: 0.5s ease-in-out (medium — sidebar expand, info_more visibility)
+
+--- KEY LAYOUT & COMPONENT STYLES ---
+
+  Global reset: margin/padding 0, box-sizing: border-box on all elements.
+  Body background: --smoky-black (near-black, hsl(0,0%,7%))
+  Text selection highlight: --orange-yellow-crayola background, --smoky-black text
+  Focus outline: --orange-yellow-crayola
+
+  Sidebar + all articles:
+    background: --eerie-black-2
+    border: 1px solid --jet
+    border-radius: 20px
+    padding: 15px
+    box-shadow: --shadow-1
+    z-index: 1
+
+  Article tab switching:
+    Default:       display: none
+    Active state:  display: block + fade-in animation (0.5s opacity 0→1)
+
+  Heading colors: --white-2 (off-white), text-transform: capitalize
+
+  Article titles (.article-title):
+    Underline decoration: 30px wide × 3px tall, --text-gradient-yellow,
+    positioned bottom-left via ::after pseudo-element
+    (bumped to 40px × 5px at >= 580px)
+
+  Icon boxes (.icon-box):
+    30×30px (48×48px at >= 580px), border-radius 8px (12px at >= 580px)
+    Background: --border-gradient-onyx (outer border effect)
+    Inner fill: --eerie-black-1 via ::before pseudo-element
+    Icon color: --orange-yellow-crayola
+    Ion-icon stroke width: 35px
+
+  Timeline connector line (.timeline-item:not(:last-child)::before):
+    1px wide vertical line, color --jet
+    Positioned left: -30px (left: -40px at >= 580px)
+    Stretches calc(100% + 50px) in height
+
+  Timeline bullet dot (.timeline-item::after):
+    6px × 6px circle (8px × 8px at >= 580px)
+    Background: --text-gradient-yellow
+    Box-shadow: 0 0 0 4px --jet (creates ring effect)
+    Positioned left: -33px (left: -43px at >= 580px)
+
+  Timeline date/location span color: --vegas-gold (gold)
+
+  .timeline-item-header (added in this session):
+    background: --bg-gradient-onyx (lighter than page background)
+    border-radius: 8px
+    padding: 12px 15px
+    margin-bottom: 12px
+
+  Navbar (mobile): position fixed, bottom 0, full width,
+    background: hsla(240,1%,17%,0.75) + backdrop-filter: blur(10px)
+    border: 1px solid --jet, border-radius: 12px 12px 0 0
+  Navbar (>= 1024px): position absolute, top-right corner of content area,
+    border-radius: 0 20px, no box-shadow
+
+  Sidebar (mobile): max-height 112px, overflow hidden (collapsed)
+           active:  max-height 405px (expanded)
+  Sidebar (>= 580px): max-height 180px / 584px active
+  Sidebar (>= 1250px): position sticky, top: 60px, always fully visible,
+                       "Show Contacts" button hidden
+
+  Contact map iframe: filter: grayscale(1) invert(1) — inverted greyscale style
+  Form inputs: border: 1px solid --jet, border-radius: 14px
+               focus border: --orange-yellow-crayola
+               invalid + focus border: --bittersweet-shimmer
+
+--- RESPONSIVE BREAKPOINTS ---
+
+  < 450px    : Default (mobile) styles
+  >= 450px   : Clients grid 3 columns; project/blog images use auto height
+  >= 580px   : Increased font sizes; sidebar/article width 520px centered;
+               article-title font-weight 600; icon-box 48×48px;
+               service items become horizontal (flex row); sidebar max-height 180px;
+               navbar border-radius 20px 20px 0 0; contacts-list 2 columns
+  >= 768px   : Sidebar/article width 700px; contacts-list 2-column 30px gap;
+               portfolio filter tabs shown (dropdown hidden); project/blog 2-column grid;
+               contact form input-wrapper 2-column; form button max-content width
+  >= 1024px  : Sidebar/article width 950px; shadows reduced opacity;
+               main content position relative, width max-content centered;
+               navbar repositioned top-right; service-list 2×2 grid;
+               project-list 3-column grid; blog-banner-box 230px height
+  >= 1250px  : Full desktop layout — sidebar sticky left, content right (75% width);
+               max-width 1200px centered; sidebar always expanded (no toggle button);
+               sidebar-info flex-direction column; body scrollbar styled;
+               timeline-text max-width: 700px
+
+
+================================================================================
+  SECTION 10 — ASSET INVENTORY
+================================================================================
+
+--- IMAGES (assets/images/) ---
+
+  AVATAR / PROFILE:
+    myavatar.png           1,273,450 bytes (1.2 MB) — current profile photo
+    my-avatar.png              9,020 bytes          — older/smaller avatar
+    avatar-1.png               3,150 bytes          — template avatar (unused)
+    avatar-2.png               3,737 bytes          — template avatar (unused)
+    avatar-3.png               3,234 bytes          — template avatar (unused)
+    avatar-4.png               3,315 bytes          — template avatar (unused)
+
+  LOGO / FAVICON:
+    logo.ico                  14,266 bytes          — favicon (used in <link>)
+    logo.svg                   8,180 bytes          — SVG logo
+    logo-1-color.png           5,481 bytes          — client logo variant
+    logo-2-color.png           3,951 bytes          — client logo variant
+    logo-3-color.png           3,393 bytes          — client logo variant
+    logo-4-color.png           3,135 bytes          — client logo variant
+    logo-5-color.png           3,912 bytes          — client logo variant
+    logo-6-color.png           2,896 bytes          — client logo variant
+
+  SVG ICONS (used in "What I'm Doing" / Leadership service cards):
+    icon-dev.svg              10,106 bytes          — used: Business Analytics
+    icon-app.svg               2,845 bytes          — used: Operations Mgmt / TEA
+    icon-design.svg            8,516 bytes          — used: Commercial Finance / SBA
+    icon-photo.svg             7,982 bytes          — used: Entrepreneurship
+    icon-quote.svg             1,164 bytes          — (template testimonials, unused in live)
+
+  PROJECT IMAGES (used in Portfolio section):
+    project-1.jpg             24,729 bytes          — Inventory Optimization Model
+    project-2.png             37,544 bytes          — Commercial Trend Modelling
+    project-3.jpg             30,999 bytes          — Marketing Performance Dashboard
+    project-4.png             80,324 bytes          — Business Case & Presentation Toolkit
+    project-5.png             25,869 bytes          — Resource Scheduling Tool
+    project-6.png             82,423 bytes          — High Park Location Launch
+    project-7.png             53,012 bytes          — (present in folder, not used in HTML)
+    project-8.jpg             37,599 bytes          — (present in folder, not used in HTML)
+    project-9.png             57,262 bytes          — (present in folder, not used in HTML)
+
+  BLOG IMAGES (present in folder, not currently used — blog section removed from live site):
+    blog-1.jpg                19,980 bytes
+    blog-2.jpg                64,051 bytes
+    blog-3.jpg               118,302 bytes
+    blog-4.jpg                47,941 bytes
+    blog-5.jpg                48,029 bytes
+    blog-6.jpg                16,574 bytes
+
+--- PROJECT FILES (assets/projects/) ---
+
+  Financial_Reporting_Dashboard_La_Diperie Example.xlsx     57,076 bytes
+  LaDiperie_Inventory_Optimizer_Example.xlsx               349,500 bytes
+  LaDiperie_Resource_Scheduler Exaample.xlsx                85,524 bytes
+    (note: "Exaample" is a typo in the filename — double 'a')
+  desktop.ini                                                   92 bytes
+    (Windows system file — metadata artifact, not a project file)
+
+--- DEMO SCREENSHOTS (website-demo-image/) ---
+
+  desktop.png        — Desktop layout screenshot of the template
+  mobile.png         — Mobile layout screenshot of the template
+  Thumbs.db          — Windows thumbnail cache file (artifact)
+
+
+================================================================================
+  SECTION 11 — THIRD-PARTY DEPENDENCIES
+================================================================================
+
+  1. Google Fonts — Poppins
+     URL:  https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap
+     Preconnect: fonts.googleapis.com + fonts.gstatic.com (crossorigin)
+     Weights loaded: 300, 400, 500, 600
+     Usage: font-family: 'Poppins', sans-serif applied globally via html {}
+
+  2. Ionicons v5.5.2 (icon set)
+     ESM module: https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js
+     Legacy script: https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js
+     (loaded via <script type="module"> + <script nomodule> for compatibility)
+     Icons used in the live site:
+       chevron-down       — sidebar toggle button
+       mail-outline       — email contact
+       phone-portrait-outline — phone contact
+       location-outline   — location contact
+       logo-linkedin      — LinkedIn social link
+       book-outline       — Resume section headers (Education, Experience)
+       eye-outline        — Portfolio project card hover overlay
+       paper-plane        — Contact form submit button
+
+  No JavaScript frameworks (no React, Vue, Angular, jQuery, etc.)
+  No CSS frameworks (no Bootstrap, Tailwind, etc.)
+  No build tools (no Webpack, Vite, etc.) — pure static HTML/CSS/JS
+
+
+================================================================================
+  SECTION 12 — HTML DOCUMENT STRUCTURE OVERVIEW
+================================================================================
+
+DOCTYPE: html
+Language: en
+Charset: UTF-8
+X-UA-Compatible: IE=edge
+Viewport: width=device-width, initial-scale=1.0
+Title: "Anis Bouchema — Portfolio"
+
+<body>
+  <main>
+    <aside class="sidebar" data-sidebar>         ← Left panel (sticky on desktop)
+      <div class="sidebar-info">                  ← Avatar, name, title, toggle btn
+      <div class="sidebar-info_more">             ← Contacts list + social links (collapsible)
+
+    <div class="main-content">
+      <nav class="navbar">                        ← Tab navigation
+        <ul class="navbar-list">
+          [About | Resume | Portfolio | Contact]
+
+      <article class="about active" data-page="about">     ← Default active tab
+        <header><h2>About me</h2>
+        <section class="about-text">             ← 2-paragraph bio
+        <section class="service">                ← "What I'm Doing" (4 cards)
+        <section class="service">                ← "Leadership" (2 cards)
+
+      <article class="resume" data-page="resume">
+        <header><h2>Resume</h2>
+        <section class="timeline">               ← Education (2 entries)
+        <section class="timeline">               ← Experience (6 entries)
+        <section class="skill">                  ← Skills (4 categories)
+
+      <article class="portfolio" data-page="portfolio">
+        <header><h2>Portfolio</h2>
+        <section class="projects">
+          <ul class="filter-list">               ← Desktop filter tabs
+          <div class="filter-select-box">        ← Mobile filter dropdown
+          <ul class="project-list">              ← 6 project cards
+
+      <article class="contact" data-page="contact">
+        <header><h2>Contact</h2>
+        <section class="mapbox">                 ← Google Maps embed
+        <section class="contact-form">           ← 3-field contact form
+
+  <script src="./assets/js/script.js">
+  <script ionicons ESM + nomodule fallback>
+
+
+================================================================================
+  SECTION 13 — README.md (verbatim)
+================================================================================
+
+# vCard - Personal portfolio
+
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+
+vCard is a fully responsive personal portfolio website, responsive for all devices,
+built using HTML, CSS, and JavaScript.
+
+## Demo
+
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your
+  operating system.
+
+## Installing vCard
+
+To install **vCard**, follow these steps:
+
+Linux and macOS:
+
+  sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+
+Windows:
+
+  git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+
+## License
+
+MIT
+
+
+================================================================================
+  SECTION 14 — NOTABLE OBSERVATIONS & TECHNICAL NOTES
+================================================================================
+
+1. The portfolio is a single HTML file with no backend. The contact form has
+   no server-side handler — clicking "Send Message" (when enabled) submits to
+   "#" and does nothing. Backend integration (e.g. EmailJS, Formspree) would
+   be required to make it functional.
+
+2. The project links in the Portfolio section all point to "#" — no live
+   project pages or external URLs are wired up yet.
+
+3. There is a typo in the HTML attribute name on line 25: "data-selecct-value"
+   (double 'c'). This is intentional/consistent — the JS also references it as
+   "data-selecct-value" so the functionality works correctly despite the typo.
+
+4. The site was built on the "vCard" template by @codewithsadee (MIT licensed).
+   All personal content (bio, experience, skills, projects) has been replaced
+   with Anis Bouchema's real information. Some template artifacts remain:
+   - index.txt contains the original template's placeholder content
+   - blog-*.jpg images remain in assets/images/ though the Blog tab was removed
+   - avatar-1.png through avatar-4.png (template testimonial avatars) remain
+   - project-7.png, project-8.jpg, project-9.png are in images/ but not used
+   - logo-1 through logo-6 color PNGs are in images/ (template client logos)
+
+5. The "La Diperie — Business Operator (High Park Launch)" role lists a start
+   date of Jun 2022, which is chronologically after "La Diperie — Business
+   Operator" (Sep 2021) but appears third in the list. The ordering in the HTML
+   is: current Oakville role → historical GM role → High Park launch → other roles.
+
+6. myavatar.png is 1.27 MB — considerably large for a profile photo displayed
+   at 80px (mobile) to 150px (desktop). Compression would improve load time.
+
+7. The file "LaDiperie_Resource_Scheduler Exaample.xlsx" has a typo in the
+   filename (double 'a' in "Exaample"). The corresponding desktop.ini in the
+   projects folder is a Windows system artifact with no content value.
+
+8. The CSS contains rules for .testimonials, .modal-container, .clients, and
+   .blog-posts that are no longer used in the live HTML (those sections were
+   removed from the template during customization), but the CSS rules remain.
+
+9. CSS font-weight on .service-item-text uses --fw-3 (line 554) which is an
+   undefined custom property — the correct variable is --fw-300. This is a
+   minor bug that causes the font-weight to fall back to the browser default.
+
+10. The site has no meta description, Open Graph tags, Twitter Card tags, or
+    structured data (JSON-LD). Adding these would improve SEO and social sharing.
+
+================================================================================
+  END OF EXTRACTION
+================================================================================
